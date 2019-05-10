@@ -9,7 +9,6 @@ Commands:
 
 http://192.168.4.1/led/off                          - Turns the LED at pin D0 off
 http://192.168.4.1/led/on                           - Turns the LED at pin D0 on
-
 http://192.168.4.1/ssid/{your WiFi name}            - Passes the ssid of your WiFi network to the NodeMCU
 
 http://192.168.4.1/password/{your WiFi password}    - Passes the password of your WiFi network to the NodeMCU
