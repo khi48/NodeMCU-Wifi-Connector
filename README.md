@@ -1,5 +1,5 @@
-# NodeMCU_wifiConnect
-Connect to NodeMCU over wifi then pass through router ssid and password
+# NodeMCU Wifi Connector
+Connect device directly to a NodeMCU microcontroller over wifi. Using this connection to pass through a router ssid and password
 
 Firstly, connect an LED to pin D0 of the NodeMCU in series with a 2.2kohm resistor to ground.
 Next, pair your device (phone/laptop) to the NodeMCU local WiFi network "" using the password "".
